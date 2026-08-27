@@ -5,3 +5,4 @@ Spider-Man, conocido en español como el Hombre Araña, es un superhéroe de los
 
 - Doctor Octopus
 - Duende Verde
+- Lagarto
