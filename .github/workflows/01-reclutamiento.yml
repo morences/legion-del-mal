@@ -7,6 +7,6 @@ jobs:
         runs-on: ubuntu-latest
 
         steps:
+            - uses: actions/checkout@v4
             - name: El agente se presenta
             run: echo "Soy Lex Luthor, y el líder de la Legión del Mal"
-            
