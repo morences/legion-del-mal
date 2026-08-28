@@ -5,8 +5,8 @@ on: push
 jobs:
     reporte-de-reclutamiento:
         runs-on: ubuntu-latest
-        
-        steps:
+
+        steps: 
             - uses: actions/checkout@v4
             - name: El agente se presenta
             run: echo "Soy Lex Luthor, y el líder de la Legión del Mal"
